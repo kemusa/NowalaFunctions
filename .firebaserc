@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "nowala-dev",
+    "prod": "nowala",
+    "staging": "nowala-staging"
+  },
+  "targets": {}
+}
